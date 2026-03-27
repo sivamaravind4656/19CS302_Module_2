@@ -20,8 +20,8 @@ To write a C program to find the sum of odd digits using do while loop.
 ```
 /*
 Program to find the sum of odd digits using do while loop.
-Developed by:  SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by:  ARAVINDHAN K A P
+RegisterNumber:  212222063001
 */
 #include <stdio.h>
 int main() {
