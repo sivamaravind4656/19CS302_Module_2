@@ -19,8 +19,8 @@ To write a C program to find the factorial of a given number using a function wi
 ## Program:
 ```/*
 Program to find the factorial of a given number using a function with arguments and return type.
-Developed by: SARATH KUMAR.K
-RegisterNumber: 212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber: 212222063001
 */
 #include <stdio.h>
 int factorial(int n) {
