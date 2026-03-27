@@ -15,8 +15,8 @@ End.
 ```
 /*
 Program to perform multiplication and division of two numbers using functions (without argument and without return type).
-Developed by: SARATH KUMAR.K
-RegisterNumber:  212222063014
+Developed by: ARAVINDHAN K A P
+RegisterNumber:  212222063001
 */
 #include<stdio.h> 
 void multiply(int a,int b); 
